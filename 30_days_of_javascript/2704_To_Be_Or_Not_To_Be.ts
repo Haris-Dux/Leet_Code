@@ -21,6 +21,7 @@ const expect = (val1:number) => {
   }
 };
 
+//OUTPUTS
 const output = expect(5).toBe(4);
 console.log('OutPut For toBe',output);
 
